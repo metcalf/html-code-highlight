@@ -1,0 +1,11 @@
+{
+  "name": "html-code-highlight",
+  "version": "0.0.1",
+  "description": "Highlight code on the command line for google slides",
+  "main": "index.js",
+  "author": "Andrew Metcalf",
+  "license": "MIT",
+  "dependencies": {
+    "highlight.js": "^9.12.0"
+  }
+}
